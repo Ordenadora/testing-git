@@ -1,0 +1,31 @@
+body
+{ background-image: url('https://www.walldevil.com/wallpapers/a33/web-background-backgroundsw-media-scholtens-designer-aljan.jpg');
+}
+
+h1
+{ color:blue;
+    text-align:center;
+}
+
+
+.blue-text
+{ color:blue;
+    font-weight:bold;
+}
+.thin-blue-border
+{ border-color: blue;
+border-width: 2px;
+border-style: solid;
+font-weight:bold;
+}
+.silver-background
+{ background-color: silver;
+    margin-top: -15px;
+    margin-bottom: -15px;
+}
+#stratigies-resources
+{ text-align:center;
+}
+#u-none
+{ list-style-type:none;
+}
